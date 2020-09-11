@@ -13,6 +13,7 @@ body {
     font-size: 16px;
     min-width:  90px;
     min-height: 50px;
+    width: 24%;
 }
 
 .btn-disabled{
@@ -25,6 +26,7 @@ body {
 #inputShowScore {
     border: none;
     border-bottom: pink solid 1px;
+
 }
 .btn:hover {
     background-color: pink;
@@ -33,4 +35,8 @@ body {
 #inputShowScore:focus {
     outline: none;
     border-bottom: #4d4d4d solid 1px;
+}
+#all {
+    width: 50%;
+    margin: 0 auto;
 }
