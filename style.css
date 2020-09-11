@@ -22,10 +22,14 @@ body {
 }
 .divClass{
     margin: 3px;
+    width: 100%;
 }
 #inputShowScore {
     border: none;
     border-bottom: pink solid 1px;
+    width: 96%;
+    display: block;
+    margin: 0 auto;
 
 }
 .btn:hover {
