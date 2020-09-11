@@ -17,7 +17,7 @@ body {
 
 .btn-disabled{
     background-color: #4d4d4d;
-    color: ghostwhite;
+    color: rgb(0, 0, 0);
 }
 .divClass{
     margin: 3px;
