@@ -3,7 +3,7 @@ body {
 }
 
 .btn {
-    background-color: #808080;
+    background-color: #4d4d4d;
     border: none;
     color: pink;
     padding: 15px 32px;
@@ -16,9 +16,20 @@ body {
 }
 
 .btn-disabled{
-    background-color: #4d4d4d;
+    background-color: #808080;
     color: rgb(0, 0, 0);
 }
 .divClass{
     margin: 3px;
+}
+#inputShowScore {
+    border: none;
+    border-bottom: pink solid 1px;
+}
+.btn:hover {
+    background-color: pink;
+    color: black;
+}
+#inputShowScore:focus {
+    outline: none;
 }
